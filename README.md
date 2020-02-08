@@ -40,4 +40,6 @@ pod init
 
 # 2.本地私有库使用 
 
+清除pod缓存
+pod cache clean --all
 
