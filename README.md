@@ -31,3 +31,7 @@ pod trunk register xjr1270508005@sina.com  'xjryuanmeng' --verbose
 
 pod trunk push baseModue.podspec
 
+
+Demo使用
+
+pod init
