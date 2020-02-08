@@ -48,6 +48,7 @@ https://www.jianshu.com/p/fc1aa5583c5b
 https://www.cnblogs.com/richard-youth/p/4704413.html
 
 调试信息
+
 pod spec lint NAME.podspec --verbose
 
 pod trunk push NAME.podspec --verbose
