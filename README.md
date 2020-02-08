@@ -52,3 +52,16 @@ https://www.cnblogs.com/richard-youth/p/4704413.html
 pod spec lint NAME.podspec --verbose
 
 pod trunk push NAME.podspec --verbose
+
+
+pod install
+
+把Podfile内全部的库更新重新安装
+
+pod install --verbose --no-repo-update
+
+该命令只安装新添加的库，已更新的库忽略
+
+pod update 库名--verbose --no-repo-update
+
+该命令只更新指定的库，其它库忽略
