@@ -35,3 +35,7 @@ pod trunk push baseModue.podspec
 Demo使用
 
 pod init
+
+
+本地私有库
+
