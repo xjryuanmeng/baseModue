@@ -28,6 +28,7 @@ git commit -m '修改baseModue.podspec'
 git push
 
 以下命令每创建一个库都需要操作一次？
+
 pod trunk register xjr1270508005@sina.com  'xjryuanmeng' --verbose 
 
 pod trunk push baseModue.podspec
