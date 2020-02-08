@@ -1,4 +1,7 @@
 # 组件化
+
+1.远程共有库使用
+
 # baseModue
 baseModue
 
@@ -37,5 +40,5 @@ Demo使用
 pod init
 
 
-本地私有库
+2.本地私有库使用
 
