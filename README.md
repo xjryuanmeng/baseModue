@@ -43,3 +43,6 @@ pod init
 清除pod缓存
 pod cache clean --all
 
+https://www.jianshu.com/p/fc1aa5583c5b
+
+https://www.cnblogs.com/richard-youth/p/4704413.html
