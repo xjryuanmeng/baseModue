@@ -1,7 +1,7 @@
 # 组件化 baseModue
 baseModue
 
-#1.远程共有库使用
+# 1.远程共有库使用 
 
 touch 文件
 
@@ -37,6 +37,6 @@ Demo使用
 
 pod init
 
+# 2.本地私有库使用 
 
-#2.本地私有库使用
 
