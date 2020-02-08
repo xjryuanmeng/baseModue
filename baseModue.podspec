@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.1"
   spec.summary      = "baseModue"
 
-  spec.description  = “baseModue,详细描述,字数比spec.summary长”
+  spec.description  =   "baseModue,详细描述,字数比spec.summary长"
 
   spec.homepage     = "https://github.com/xjryuanmeng/baseModue"
 
