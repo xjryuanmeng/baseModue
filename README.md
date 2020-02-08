@@ -1,9 +1,7 @@
-# 组件化
-
-1.远程共有库使用
-
-# baseModue
+# 组件化 baseModue
 baseModue
+
+#1.远程共有库使用
 
 touch 文件
 
@@ -29,7 +27,7 @@ git commit -m '修改baseModue.podspec'
 
 git push
 
-# 以下命令每创建一个库都需要操作一次？
+以下命令每创建一个库都需要操作一次？
 pod trunk register xjr1270508005@sina.com  'xjryuanmeng' --verbose 
 
 pod trunk push baseModue.podspec
@@ -40,5 +38,5 @@ Demo使用
 pod init
 
 
-2.本地私有库使用
+#2.本地私有库使用
 
