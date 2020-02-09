@@ -73,6 +73,10 @@ pod update 库名--verbose --no-repo-update
 
 该命令只更新指定的库，其它库忽略
 
+# 3.远程私有库使用 
+
+
+
 
 # Mac下 cocoapods重装,及pod command 找不到解决
 
