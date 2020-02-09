@@ -40,6 +40,14 @@ pod init
 
 # 2.本地私有库使用 
 
+同上，只是以下两个命令不需要
+
+pod trunk register xjr1270508005@sina.com  'xjryuanmeng' --verbose 
+
+pod trunk push baseModue.podspec
+
+因为不需要放到远端
+
 查看更多调试信息
 
 pod spec lint NAME.podspec --verbose
