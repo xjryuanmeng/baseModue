@@ -80,6 +80,8 @@ pod update 库名--verbose --no-repo-update
 
 # Mac下 cocoapods重装,及pod command 找不到解决
 
+https://www.jianshu.com/p/e37de160f428
+
 1. 卸载已有的cocoapods
 
 sudo gem uninstall cocoapods
